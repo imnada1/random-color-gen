@@ -8,7 +8,7 @@ function randomColor() {
     const r = Math.floor(Math.random() * 255);
     const g = Math.floor(Math.random() * 255);
     const b = Math.floor(Math.random() * 255);
-    if (r < 150 && g < 150 && b < 150) {
+    if (r < 200 && g < 200 && b < 200) {
         h1.style.color = 'white';
         copyButton.style.borderColor = 'white';
         copyButton.style.color = 'white';
