@@ -29,11 +29,6 @@ document.addEventListener('keyup', event => {
     }
 })
 
-// button.addEventListener('click', () => {
-//     const newColor = randomColor();
-//     document.body.style.backgroundColor = newColor
-//     h1.innerText = newColor
-// })
 
 copyButton.addEventListener('click', () => {
     navigator.clipboard.writeText(document.querySelector("h1").innerText)
