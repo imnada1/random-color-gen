@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(0, 40, 111);
+    vertical-align: middle;
+    padding-top: 275px;
+}
+
+h1 {
+    color: white;
+}
+
+#copy {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    border: solid 1px white;
+}
+
+#color {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
